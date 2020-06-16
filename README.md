@@ -1,2 +1,2 @@
 # git_starter
-Gam is cute
+Gam is cute mak mak.
